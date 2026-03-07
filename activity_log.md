@@ -7,3 +7,4 @@
 - [2026-03-05T20:02:04Z] refactor: simplify conditional logic
 - [2026-03-05T12:30:15Z] feat: add helper utility function
 - [2026-03-05T22:26:40Z] docs: update README with usage examples
+- [2026-03-07T16:50:36Z] refactor: simplify conditional logic
